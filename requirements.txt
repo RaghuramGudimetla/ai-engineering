@@ -3,3 +3,6 @@ openai
 anthropic
 python-dotenv
 rich
+sentence-transformers
+qdrant-client
+pypdf

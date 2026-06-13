@@ -23,8 +23,6 @@ questions = [
 ]
 
 for question in questions:
-    print(f"\n Question: {question}")
-    print("-" * 60)
 
     response = ollama.chat(
         model="llama3.2",

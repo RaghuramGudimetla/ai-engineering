@@ -1,0 +1,49 @@
+
+KNOW YOUR CUSTOMER (KYC) GUIDELINES
+Regulatory Compliance Department
+
+INTRODUCTION
+KYC is a critical regulatory requirement that helps the bank verify customer identities
+and assess the risk they pose. These guidelines apply to all customer onboarding
+and periodic review processes.
+
+ACCEPTABLE IDENTITY DOCUMENTS
+Primary identification (one required):
+- Valid passport
+- National identity card
+- Drivers licence with photo
+
+Secondary identification (one required):
+- Utility bill dated within 3 months
+- Bank statement from another institution
+- Government issued letter with address
+
+RISK CLASSIFICATION
+Customers are classified into three risk categories:
+
+LOW RISK
+- Domestic customers with stable employment
+- Transactions consistent with stated income
+- No adverse media or PEP connections
+- Review frequency: Every 36 months
+
+MEDIUM RISK
+- Self employed customers or cash intensive businesses
+- Customers with occasional large transactions
+- Some foreign connections or transactions
+- Review frequency: Every 24 months
+
+HIGH RISK
+- Politically Exposed Persons (PEPs) and their family members
+- Customers from high risk jurisdictions (FATF blacklist)
+- Businesses in high risk sectors (crypto, gambling, arms)
+- Customers with previous SAR filings
+- Review frequency: Every 12 months
+
+ENHANCED DUE DILIGENCE FOR HIGH RISK CUSTOMERS
+High risk customers require the following additional steps:
+- Senior management approval before account opening
+- Source of funds documentation
+- Source of wealth documentation for accounts over $500,000
+- Ongoing transaction monitoring with lower alert thresholds
+- Annual face to face review for ultra high net worth customers
